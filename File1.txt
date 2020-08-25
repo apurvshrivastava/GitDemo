@@ -3,6 +3,7 @@ Welcome to GIT!!!
 
 main(){
 
-sysout("Hello from GIT);
+sysout("Hello from GIT");
+sysout("Added something");
 
 }
