@@ -1,2 +1,8 @@
-Hi
+Hi, This is File1
 Welcome to GIT!!!
+
+main(){
+
+sysout("Hello from GIT);
+
+}
